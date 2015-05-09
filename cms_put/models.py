@@ -1,5 +1,6 @@
 from django.db import models
 
+# users: anombela password: anombela
 
 # Create your models here.
 
